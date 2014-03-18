@@ -1,0 +1,17 @@
+﻿Build started 04/03/2014 0:49:36.
+     1>Project "C:\Users\columdrum\Desktop\hatire\FTNoIR_Tracker_HAT_vc9.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Moc'ing ftnoir_tracker_hat.h...
+         El sistema no puede encontrar la ruta especificada.
+         Moc'ing ftnoir_tracker_hat_dialog.h...
+         El sistema no puede encontrar la ruta especificada.
+         Moc'ing ftnoir_tracker_hat_settings.h...
+         El sistema no puede encontrar la ruta especificada.
+         Uic'ing ftnoir_hatcontrols.ui...
+         El sistema no puede encontrar la ruta especificada.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppCommon.targets(172,5): error MSB6006: "cmd.exe" exited with code 3.
+     1>Done Building Project "C:\Users\columdrum\Desktop\hatire\FTNoIR_Tracker_HAT_vc9.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.02
